@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:antialias="false"
+    android:autoMirrored="false"
+    android:dither="false"
+    android:filter="false"
+    android:gravity="center"
+    android:mipMap="false"
+    android:src="@drawable/balaio_de_lenha" />

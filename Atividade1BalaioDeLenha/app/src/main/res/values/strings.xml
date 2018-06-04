@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Restaurante</string>
+    <string name="consumo_total">Consumo total R$:</string>
+    <string name="couvert_artistico">Couvert Artistico R$:</string>
+    <string name="dividir">Dividir conta por:</string>
+    <string name="bt_calcular_conta_final">Calcular Conta Final</string>
+    <string name="lb_taxa_servico">Taxa de Servico(10%) R$:</string>
+    <string name="lb_conta_total">Conta Total:</string>
+    <string name="lb_valor_pessoa">Valor por pessoa R$:</string>
+    <string name="background">Background</string>
+</resources>

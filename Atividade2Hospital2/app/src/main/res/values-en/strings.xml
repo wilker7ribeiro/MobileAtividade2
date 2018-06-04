@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Patient</string>
+    <string name="adicionar_paciente">Add Patient</string>
+    <string name="nome_paciente">Patient\'s Name</string>
+    <string name="numero_leito">Bed Number</string>
+    <string name="pressao_diastolica">diastolic Pressure</string>
+    <string name="pressao_sistolica">Systolic Pressure</string>
+    <string name="batimentos_cardiacos">Heartbeat Rate</string>
+    <string name="temperatura">Temperature</string>
+    <string name="salvar">Save</string>
+    <string name="remover">Delete</string>
+</resources>
